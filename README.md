@@ -10,7 +10,8 @@
   <li><strong>Game Event Detection:</strong> The system detects key events such as bounces on the table, double bounces, and when the ball hits the floor.</li>
   <li><strong>Player Scoring:</strong> Automatically updates and displays the score based on the detected events.</li>
 
-
+<br>
+<br>
 
 
 ![image](https://github.com/DanielSInger1/Ping-Pong-Judge/assets/118116425/a5b5f8ea-c3bb-4cba-b500-9e38005b50b4)
