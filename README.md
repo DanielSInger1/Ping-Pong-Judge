@@ -1,4 +1,4 @@
-<h1>Real-Time Table Tennis Game Analysis</h1>
+<h1>Real-Time Table Tennis Judge</h1>
 <p>This project is designed to judge and analyze a game of table tennis in real-time. By utilizing advanced computer vision techniques, the system can track the ball and determine various game events such as bounces and points.</p>
 
 <h2>Features</h2>
@@ -11,4 +11,6 @@
   <li><strong>Player Scoring:</strong> Automatically updates and displays the score based on the detected events.</li>
 </ul>
 
+<h2>Future Enhancements</h2>
+<p>We are currently working on adding a web client-side to this project. The web interface will provide users with a friendly and intuitive way to interact with the analysis results, making it easier to understand and utilize the insights gained from the game analysis.</p>
 
