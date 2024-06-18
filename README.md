@@ -9,6 +9,11 @@
   <li><strong>CUDA Acceleration:</strong> The use of CUDA technology ensures fast processing, allowing for seamless real-time performance.</li>
   <li><strong>Game Event Detection:</strong> The system detects key events such as bounces on the table, double bounces, and when the ball hits the floor.</li>
   <li><strong>Player Scoring:</strong> Automatically updates and displays the score based on the detected events.</li>
+
+![image](https://github.com/DanielSInger1/Ping-Pong-Judge/assets/118116425/a5b5f8ea-c3bb-4cba-b500-9e38005b50b4)
+
+
+  
 </ul>
 <h2>Future Enhancements</h2>
 <p>We are currently working on adding a web client-side to this project. The web interface will provide users with a friendly and intuitive way to interact with the analysis results, making it easier to understand and utilize the insights gained from the game analysis.</p>
